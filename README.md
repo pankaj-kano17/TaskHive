@@ -1,6 +1,7 @@
-# Taskly
+# TaskHive
 
-Taskly helps you manage your tasks efficiently with **priority filters, dark mode, and full responsiveness** across devices.
+TaskHive is a simple and interactive to-do list web application built using HTML, CSS, and Vanilla JavaScript. It allows users to add, manage, and track daily tasks with a clean UI and persistent storage using the browser’s localStorage.
+
 
 <img width="3840" height="2486" alt="Image" src="https://github.com/user-attachments/assets/0388f0ba-209d-472a-b5f4-1828d9bc8923" />
 <img width="3840" height="2486" alt="Image" src="https://github.com/user-attachments/assets/b1f7a23a-3d78-4df1-981d-d8d0278df01c" />
